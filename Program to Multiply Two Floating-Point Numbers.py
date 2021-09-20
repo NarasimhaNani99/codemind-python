@@ -1,0 +1,5 @@
+a = float(input())
+b = float(input())
+#sum = "{:2f}".format(a*b)
+sum=round(a*b,2)
+print(sum)
